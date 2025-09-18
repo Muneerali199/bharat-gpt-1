@@ -2,4 +2,9 @@
 - [x] Install dependencies
 - [x] Prepare OpenWebText data
 - [x] Train the model
-- [ ] Sample from the model
+- [x] Sample from the model
+- [x] Prepare custom dataset (mydataset)
+- [x] Train on custom dataset
+- [ ] Finetune GPT-2 XL on custom data (in progress)
+- [ ] Evaluate model performance
+- [ ] Optimize hyperparameters for better performance
