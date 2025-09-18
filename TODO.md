@@ -1,0 +1,5 @@
+- [x] Check Python and GPU availability
+- [x] Install dependencies
+- [x] Prepare OpenWebText data
+- [x] Train the model
+- [ ] Sample from the model
